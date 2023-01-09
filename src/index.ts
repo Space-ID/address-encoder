@@ -1573,6 +1573,7 @@ export const formats: IFormat[] = [
   evmChain('CLO', 820),
   evmChain('NRG', 39797),
   evmChain('ARB1', 42161),
+  evmChain('ARB_NOVA', 42170),
   evmChain('CELO', 42220)
 ];
 
