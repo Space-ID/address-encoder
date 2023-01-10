@@ -1,6 +1,6 @@
 {
-  "name": "@ensdomains/address-encoder",
-  "version": "0.2.16",
+  "name": "@siddomains/address-encoder",
+  "version": "0.0.4",
   "description": "Encodes and decodes address formats for various cryptocurrencies",
   "source": "src/index.ts",
   "main": "lib/index.js",
@@ -25,7 +25,7 @@
     "ethereum",
     "encoding"
   ],
-  "author": "Nick Johnson <nick@ens.domains>",
+  "author": "",
   "license": "BSD",
   "devDependencies": {
     "@types/jest": "^24.0.18",
